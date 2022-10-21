@@ -11,7 +11,7 @@
     font-family: Roboto, sans-serif;
        
 }
-.link, .logo{
+.link, .logo, .project-item{
     text-decoration: none;
 }
 .list{
@@ -114,6 +114,9 @@ font-weight: 400;
 font-size: 14px;
 line-height: calc(24/14);
  letter-spacing: 0.03em;
+}
+.team{
+    background-color: #F5F4FA;
 }
 .our-team{
 font-size: 16px;
